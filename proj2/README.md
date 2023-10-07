@@ -1,0 +1,1 @@
+Place our score cards and link our video link to this README.md
